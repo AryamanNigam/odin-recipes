@@ -1,0 +1,14 @@
+html{
+    background-color: rgb(3, 18, 70);
+    color: rgba(239, 248, 255, 0.89);
+}
+
+.links a{
+    color: #ffffff;
+    font-size: larger;
+    font-family: "Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
+}
+
+.ingredients *{
+    font-family: 'Times New Roman', Times, serif;
+}
